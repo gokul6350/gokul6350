@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gokul00060" target="blank"><img src="https://img.shields.io/twitter/follow/gokul00060?logo=twitter&style=for-the-badge" alt="gokul00060" /></a> </p>
 
-- 🌱 I’m currently learning **C++ & js**
+- 🌱 I’m currently learning **C**
 
 - 📫 How to reach me **gokul00060@gmail.com**
 
