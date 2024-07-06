@@ -4,7 +4,7 @@
   
 - 🔭 I’m currently working on [Robotics Arm Assistance](https://github.com/gokul6350/ARMv6)  
   
-- 📫 How to reach me on discord **@gokul9638**  
+- 📫 How to reach me on discord **@gokul9638 **  
  - <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul6350&label=Profile%20views&color=0e75b6&style=flat" alt="gokul6350" /> </p>
 
 <h3 align="left">Connect with me:</h3>  
