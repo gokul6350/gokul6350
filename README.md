@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Gokul</h1>  
+<h1 align="center">Hi 👋, I'm Barath</h1>  
 <h3 align="center">A passionate Robotics,AI,ML developer</h3>  
   
-- 🔭 I’m currently working on [Robotics Arm Assistance](https://github.com/gokul6350/ARMv6)  
+- 🔭 I’m currently working on AI OS
   
 - 📫 How to reach me on discord **@gokul9638**  
  - <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul6350&label=Profile%20views&color=0e75b6&style=flat" alt="gokul6350" /> </p>
