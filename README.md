@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barath</h1>  
-<h3 align="center">A passionate Robotics,AI,ML developer</h3>  
+<h3 align="center">A passionate AI,Robotics developer</h3>  
   
 - 🔭 I’m currently working on AI OS
   
